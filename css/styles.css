@@ -10996,7 +10996,7 @@ section {
 section.cta {
   position: relative;
   padding: 5rem 0;
-  background-image: url("kidscorner/assets/img/smartphone.jpg");
+  background-image: url("../assets/img/smartphone.jpg");
   background-position: center;
   background-size: cover;
 }
