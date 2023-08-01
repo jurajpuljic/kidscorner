@@ -309,6 +309,11 @@ svg {
   vertical-align: middle;
 }
 
+img {
+  vertical-align: middle;
+  object-fit:contain;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
